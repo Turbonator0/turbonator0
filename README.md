@@ -4,7 +4,7 @@
 
 [website](https://turbonator0.github.io)
 
-[my web bible](https://turbonator0.github.io)
+[my web bible](https://turbonator0.github.io/bible/)
 
 [KJV terminal tool](https://github.com/lukesmithxyz/kjv)
 
