@@ -2,4 +2,4 @@
 
 [KJV terminal tool](https://github.com/lukesmithxyz/kjv)
 
-Gods grace over all.
+God's grace over all.
